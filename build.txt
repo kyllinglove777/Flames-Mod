@@ -1,0 +1,3 @@
+displayName = Flames Mod
+author = Truffle + co.
+version = 0.1
