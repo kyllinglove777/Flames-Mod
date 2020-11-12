@@ -13,7 +13,7 @@ namespace Fmod.Items.Weapons.Ranged.Bows
         }
         public override void SetDefaults()
         {
-            item.damage = 255;
+            item.damage = 200;
             item.noMelee = true;
             item.ranged = true;
             item.width = 11;

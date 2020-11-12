@@ -36,7 +36,6 @@
     <Folder Include="Items\Weapons\Celestial\" />
     <Folder Include="Items\Weapons\Throwing\" />
     <Folder Include="Npc\Bosses\" />
-    <Folder Include="Npc\Enemies\" />
     <Folder Include="Npc\TownNpc\" />
     <Folder Include="Projectiles\NpcProjectiles\" />
     <Folder Include="Projectiles\WeaponProjectiles\Melee\" />
