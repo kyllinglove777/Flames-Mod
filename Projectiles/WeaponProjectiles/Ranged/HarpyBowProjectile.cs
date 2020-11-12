@@ -18,6 +18,7 @@ namespace Fmod.Projectiles.WeaponProjectiles.Ranged
             projectile.aiStyle = 0;
             aiType = ProjectileID.HarpyFeather;
             projectile.timeLeft = 1200;
+            projectile.friendly = true;
         }
     }
 }
