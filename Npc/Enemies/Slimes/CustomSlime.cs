@@ -16,14 +16,13 @@ namespace Fmod.Npc.Enemies.Slimes
             npc.lifeMax = 1000;
             npc.HitSound = SoundID.NPCHit1;
             npc.DeathSound = SoundID.NPCDeath16;
-            npc.knockBackResist = 3f;
             npc.value = 1000000f;
             aiType = NPCID.BlueSlime;
             animationType = NPCID.BlueSlime;
         }
         public override float SpawnChance(NPCSpawnInfo spawnInfo)
         {
-            return SpawnCondition.OverworldDay.Chance * 2f;
+            return SpawnCondition.Overworld.Chance * 50f;
         }
     }
 }
