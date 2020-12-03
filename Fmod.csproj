@@ -15,8 +15,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Items\Ammo\" />
-    <Folder Include="Items\Tools\" />
     <Folder Include="Items\TileItems\Furniture\" />
+    <Folder Include="Items\Tools\" />
     <Folder Include="Items\WallItems\" />
     <Folder Include="Items\Weapons\Mage\" />
     <Folder Include="Items\Weapons\Melee\Flails\" />
@@ -34,6 +34,7 @@
     <Folder Include="Items\Weapons\Amalgam\" />
     <Folder Include="Items\Weapons\Celestial\" />
     <Folder Include="Items\Weapons\Throwing\" />
+    <Folder Include="Walls\" />
     <Folder Include="Npc\Bosses\" />
     <Folder Include="Npc\TownNpc\" />
     <Folder Include="Projectiles\NpcProjectiles\" />
@@ -43,6 +44,6 @@
     <Folder Include="Projectiles\WeaponProjectiles\Amalgam\" />
     <Folder Include="Projectiles\WeaponProjectiles\Throwing\" />
     <Folder Include="Projectiles\WeaponProjectiles\Summon\" />
-    <Folder Include="Tiles\Blocks\" />
+    <Folder Include="Tiles\Furniture\" />
   </ItemGroup>
 </Project>
