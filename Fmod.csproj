@@ -14,7 +14,9 @@
     <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Items\Accessories\" />
     <Folder Include="Items\Ammo\" />
+    <Folder Include="Items\ArmorAndVanity\Armor\" />
     <Folder Include="Items\TileItems\Furniture\" />
     <Folder Include="Items\Tools\" />
     <Folder Include="Items\WallItems\" />
@@ -34,6 +36,7 @@
     <Folder Include="Items\Weapons\Amalgam\" />
     <Folder Include="Items\Weapons\Celestial\" />
     <Folder Include="Items\Weapons\Throwing\" />
+    <Folder Include="Npc\Enemies\Slimes\" />
     <Folder Include="Walls\" />
     <Folder Include="Npc\Bosses\" />
     <Folder Include="Npc\TownNpc\" />
