@@ -17,7 +17,6 @@
     <Folder Include="Items\Accessories\" />
     <Folder Include="Items\Ammo\" />
     <Folder Include="Items\ArmorAndVanity\Armor\" />
-    <Folder Include="Items\TileItems\Furniture\" />
     <Folder Include="Items\Tools\" />
     <Folder Include="Items\WallItems\" />
     <Folder Include="Items\Weapons\Mage\" />
@@ -47,6 +46,5 @@
     <Folder Include="Projectiles\WeaponProjectiles\Amalgam\" />
     <Folder Include="Projectiles\WeaponProjectiles\Throwing\" />
     <Folder Include="Projectiles\WeaponProjectiles\Summon\" />
-    <Folder Include="Tiles\Furniture\" />
   </ItemGroup>
 </Project>
