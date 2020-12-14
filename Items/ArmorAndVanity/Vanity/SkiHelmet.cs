@@ -19,9 +19,5 @@ namespace Fmod.Items.ArmorAndVanity.Vanity
             item.rare = ItemRarityID.LightRed;
             item.vanity = true;
         }
-        public override bool DrawHead()
-        {
-            return true;
-        }
     }
 }
